@@ -1,0 +1,31 @@
+# Node.js (frontend)
+frontend/node_modules/
+frontend/npm-debug.log
+frontend/yarn-error.log
+frontend/dist/
+frontend/build/
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/coverage/
+frontend/*.log
+frontend/*.pid
+frontend/*.seed
+frontend/*.pid.lock
+frontend/*.log.*
+frontend/*.yml
+frontend/*.csv
+frontend/.DS_Store
+frontend/Thumbs.db
+
+# Python (backend)
+myvenv/
+backend/__pycache__/
+backend/*.pyc
+backend/*.pyo
+backend/*.pyd
+backend/*.log
+backend/*.sqlite3
+backend/.env
+backend/migrations/
